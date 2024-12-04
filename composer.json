@@ -1,5 +1,5 @@
 {
-  "name": "swoft/rpc-server",
+  "name": "swoft-fork/rpc-server",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -9,12 +9,12 @@
     "rpc"
   ],
   "description": "swoft rpc server component",
-  "homepage": "https://github.com/swoft-cloud/swoft-rpc-server",
+  "homepage": "https://github.com/sky-up/swoft-rpc-server",
   "license": "Apache-2.0",
   "require": {
-    "swoft/framework": "~2.0.0",
-    "swoft/connection-pool": "~2.0.0",
-    "swoft/rpc": "~2.0.0"
+    "swoft-fork/framework": "~2.0.0",
+    "swoft-fork/connection-pool": "~2.0.0",
+    "swoft-fork/rpc": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
